@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: green; /* Change the background color to green */
+    color: white; /* Change the text color to white for better visibility */
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #tribute-info {
+    margin: 0 auto;
+  }
+  
+  h1, h2 {
+    color: blue; /* Change heading color to blue */
+  }
+  
+  ul {
+    list-style-type: square;
+  }
+  
